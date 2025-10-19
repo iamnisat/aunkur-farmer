@@ -69,7 +69,7 @@ Through this app, farmers can:
 
 🎥 [Watch Demo Video](https://drive.google.com/file/d/1ZemkQqNdT3g9tjMGgol3LFsIqgS0594P/view?usp=sharing)
 
-⬇️ [Download APK](https://drive.google.com/file/d/1L4iYEnb7ze6JBPCdTFogKa6uJRvHwbpo/view?usp=sharing)
+⬇️ [Download APK](https://drive.google.com/file/d/1WdO0vheCIvP_hGOB6O6xF_OewiiZJrtM/view?usp=sharing)
 
 **Demo login**  
 - Phone: `01786872779`  
