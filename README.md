@@ -81,7 +81,7 @@ Through this app, farmers can:
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/iamnisat/aunkur-farmer-live.git
+   git clone https://github.com/iamnisat/aunkur-farmer.git
    cd aunkur-farmer-live
 
 ### 🧰 Prerequisites
