@@ -1,7 +1,6 @@
 class ApiConstant {
   // API Related Stuff
-  //TODO: Add your base URL here
-  static const String BASEURL = '';
+  static const String BASEURL = 'https://fusion.aunkur.ai/api/';
 
   //=========USER AUTH RELATED API ENDPOINTS=========
   static const String LOGIN = 'v1/farmers/login';
